@@ -1,5 +1,4 @@
 # Turn-based Chess-like Game with Websocket Communication
-# Kumar Shubham 21BCE2080
 
 ## Objective
 Develop a turn-based chess-like game with a server-client architecture, utilizing websockets for real-time communication and a web-based user interface.
